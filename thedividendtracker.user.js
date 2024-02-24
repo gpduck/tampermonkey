@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dividend Tracker UI Tweaks
 // @namespace    https://github.com/gpduck/tampermonkey/thedividendtracker
-// @version      1.0.0
+// @version      1.0.1
 // @description  Remove max-width CSS property from the .max-w-6xl class on the Dividend Tracker website
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=thedividendtracker.com
 // @author       Chris Duck
