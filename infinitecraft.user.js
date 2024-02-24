@@ -6,8 +6,6 @@
 // @author       Chris Duck
 // @match        https://neal.fun/infinite-craft/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=neal.fun
-// @downloadURL  https://github.com/gpduck/tampermonkey/raw/main/infinitecraft.user.js
-// @updateURL    https://github.com/gpduck/tampermonkey/raw/main/infinitecraft.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
@@ -16,7 +14,7 @@ function enableDarkMode() {
         :root {
             --main-bg-color: #3a3a3a;
             --dark-bg-color: #181818;
-            --border-color: #000000;
+            --border-color: #00ff00;
             --main-text-color: #e0e0e0;
         }
 
