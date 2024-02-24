@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Infinite Craft Dark Mode
 // @namespace    https://github.com/gpduck/tampermonkey/infinitecraft
-// @version      2024-02-24.2
+// @version      1.0.2
 // @description  Adds dark mode to neal.fun's Infinite Craft
 // @author       Chris Duck
 // @match        https://neal.fun/infinite-craft/
@@ -14,7 +14,7 @@ function enableDarkMode() {
         :root {
             --main-bg-color: #3a3a3a;
             --dark-bg-color: #181818;
-            --border-color: #000000;
+            --border-color: #0000ff;
             --main-text-color: #e0e0e0;
         }
 
