@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Infinite Craft Dark Mode
 // @namespace    https://github.com/gpduck/tampermonkey/infinitecraft
-// @version      2024-02-24_1
+// @version      2024-02-24
 // @description  Adds dark mode to neal.fun's Infinite Craft
 // @author       Chris Duck
 // @match        https://neal.fun/infinite-craft/
