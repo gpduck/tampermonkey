@@ -6,8 +6,8 @@
 // @author       Chris Duck
 // @match        https://neal.fun/infinite-craft/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=neal.fun
-// @downloadURL  https://raw.githubusercontent.com/gpduck/tampermonkey/main/infinitecraft.user.js
-// @updateURL    https://raw.githubusercontent.com/gpduck/tampermonkey/main/infinitecraft.user.js
+// @downloadURL  https://github.com/gpduck/tampermonkey/raw/main/infinitecraft.user.js
+// @updateURL    https://github.com/gpduck/tampermonkey/raw/main/infinitecraft.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
